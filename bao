@@ -1,0 +1,7 @@
+echo "# baohi3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/liuxi6654321/baohi3.git
+git push -u origin main
